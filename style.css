@@ -78,7 +78,7 @@ body{
     background-image: url(./imagenes/alexis.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     width: 100%;
     height: 806px;
     margin-top: 70px;
