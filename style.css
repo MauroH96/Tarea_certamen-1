@@ -51,7 +51,7 @@ body{
 
 .nav-menu{
     display: flex;
-    margin-text-align:center;
+    margin-text-align: center;
     list-style: none;
     margin-left: 950px;
     align-items: flex-end;
@@ -178,4 +178,103 @@ body{
     width: 300px;
     height: 200px;
     margin-right: 20px;
+}
+
+.cajaiz{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 30px;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+
+.ul1{
+    display: flex;
+    margin-text-align: center;
+    list-style: none;
+    margin-left: -50px;
+    align-items: flex-end;
+}
+
+.li{
+    font-size: 18px;
+    margin: 0 30px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+    align-items: flex-end;
+    
+}
+
+.nexttjs{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.nextjs:hover{
+    color: rgb(30, 255, 0);
+}
+
+
+
+.fondoseccionnueva{
+    background-color: rgb(0, 0, 0);
+    
+}
+
+
+.cajade{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+        
+
+
+
+}
+
+
+.ul2{
+    display: flex;
+    margin-text-align: center;
+    list-style: none;
+    margin-left: 900px;
+    align-items: flex-start;
+}
+
+
+.l2{
+    font-size: 18px;
+    margin: 0 30px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+    align-items: flex-end;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.cajaizq{
+    background-color: #720000;
+    width: 50%;
+}
+
+
+.cajader{
+    background-color: #a7a4a4;
+    width: 50%;
+    margin-left: 925px;
+    
+    
 }
