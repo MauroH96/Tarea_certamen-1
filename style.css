@@ -78,10 +78,10 @@ body{
     background-image: url(./imagenes/alexis.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
-    width: 100%;
+    background-size: cover;
+    width: 99%;
     height: 806px;
-    margin-top: 70px;
+    
 }
 
 .seccion_con_imagen{
